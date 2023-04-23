@@ -5,7 +5,7 @@ This is a simple BMI calculator app built with Flutter.
 ## Features
 
 - Calculate BMI based on user's weight and height input
--Making the user mark his height using slider
+- Making the user mark his height using slider
 - Display the calculated BMI value and user's age
 - Show a message indicating the user's weight status ,age,and gender in the next screen
 
