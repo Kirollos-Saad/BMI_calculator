@@ -18,8 +18,5 @@ This is a simple BMI calculator app built with Flutter.
 5. Connect a device or start an emulator
 6. Run the app using `flutter run` command
 
-## Credits
-
-This app was created by Kirollos Saad. 
 
 
